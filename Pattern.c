@@ -8,7 +8,7 @@
 int main()
 {
     int i, j, n=5;
-    for(i=n; i>=0; i--)
+    for(i=n; i>0; i--)
     {
         for( j=n-i;j>=0 ; j--)
         {
@@ -16,4 +16,5 @@ int main()
         }
         printf("\n");
     }
+    return 0;
 }  
