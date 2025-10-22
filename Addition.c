@@ -11,5 +11,4 @@ scanf("%d", &b);
 c=a+b;
 printf("a+b= %d" , c);
 return 0;
-       
 }
