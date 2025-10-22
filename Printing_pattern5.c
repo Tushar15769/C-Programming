@@ -6,7 +6,7 @@
 
 
 #include<stdio.h>
-int main()
+void main()
 {
      int i, j, k;
     for(i=5; i>=1; i--)

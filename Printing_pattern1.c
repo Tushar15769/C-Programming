@@ -11,7 +11,7 @@
 
 
 #include<stdio.h>
-   int main()
+   void main()
    {
         int i, j, n;
         printf("Enter the value of n=");

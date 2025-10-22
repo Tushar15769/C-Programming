@@ -9,7 +9,7 @@
 
 
 #include<stdio.h>
-int main()
+void main()
 {
      int i, j, k, n,c=80;
      printf("Enter the value of n=");

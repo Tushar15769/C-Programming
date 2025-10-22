@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
      int a, b ;
     printf("Enter the valur of a=");

@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
     int i, j, n, k,c=80;
     printf("Enter the value of n=");
