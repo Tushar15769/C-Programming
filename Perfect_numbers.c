@@ -4,16 +4,16 @@
        int i,n,sum=0;
        printf("Enter the value of n=");
        scanf("%d",&n);
-       for(i=1;i<n;i++)
+         for(i=1;i<n;i++)
        {
-        if(n%i==0)
-        {
-        sum=sum+i;
-        }
+          if(n%i==0)
+          {
+          sum=sum+i;
+          }
         }
          if(n==sum)
            printf("Perfect number");
-        else
+         else
           printf("Not a perfect number");
     
     }
