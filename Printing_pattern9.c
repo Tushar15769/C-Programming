@@ -1,20 +1,24 @@
-//  1
-//  2 3
-//  4 5 6
-//  7 8 9 10
 
+
+// 1 
+// 2 2 
+// 3 3 3 
+// 4 4 4 4 
+// 5 5 5 5 5 
 
 
 #include<stdio.h>
 void main()
 {
-    int i, j,n=1;
-    for(i=1;i<=4;i++)
+    int i, j, n;
+    printf("Enter the value of n=");
+    scanf("%d", &n);
+    for(i=1; i<=n; i++)
     {
-        for(j=1;j<=i;j++)
+        for(j=n; j>n-i; j--)
         {
-        printf(" %d", n++);
+            printf("%d ", i);
         }
         printf("\n");
-    }  
-}
+    }
+}  
