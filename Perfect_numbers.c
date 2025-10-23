@@ -12,7 +12,7 @@
         }
         }
          if(n==sum)
-           printf("Perfect number\n");
+           printf("Perfect number");
         else
           printf("Not a perfect number");
     
