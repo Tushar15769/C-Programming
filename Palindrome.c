@@ -17,3 +17,4 @@
       else
       printf("Not a palindrome");
   }
+  
