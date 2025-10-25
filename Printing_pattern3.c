@@ -4,6 +4,7 @@
 // 2 2
 // 1
 
+
 #include<stdio.h>
 void main()
 {
