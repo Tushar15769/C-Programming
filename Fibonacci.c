@@ -15,7 +15,6 @@ int main()
        a=b;
        b=c;
      }
-    
 }
 
 
