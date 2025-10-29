@@ -1,7 +1,8 @@
 #include<stdio.h>
    void main()
    {
-      int Maths,English,History,Science,Hindi,Avg;
+      int Maths,English,History,Science,Hindi;
+      float Avg;
       printf("Enter your marks in Maths=");
       scanf("%d",&Maths);
       
@@ -17,23 +18,22 @@
       printf("Enter your marks in Hindi=");
       scanf("%d",&Hindi);
 
-      Avg=Maths+English+History+Science+Hindi/5;
+      Avg=(Maths+English+History+Science+Hindi)/5.0;
 
       if(English>=40 && Maths>=40 && History>=40 && Science>=40 && Hindi>=40)
-      printf("Pass");
+      printf("Pass\n");
       
-      else if(Avg>75)
+      if(Avg>75)
       printf("Grade is distinguished");
 
-      else if(Avg>=60 && Avg<75)
+      else if(Avg>=60 )
       printf("First division");
 
-      else if(Avg>=50 && Avg<60)
+      else if(Avg>=50 )
       printf("Second Division");
 
-      else if(Avg>=40 && Avg <50)
+      else if(Avg>=40 )
       printf("Third division");
-
       else
       printf("Fail");
    }
