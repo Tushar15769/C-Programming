@@ -3,7 +3,6 @@
 
 int main() {
     int i;
-    // clrscr();
     printf("Enter the month number=");
     scanf("%d",&i);
     if (i<1 || i>12)
