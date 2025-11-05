@@ -15,7 +15,7 @@
         n=temp;
         if(n==sum)
         printf("Armstrong number");
-         else
+        else
         printf("Not a Armstrong number");
     }
          
