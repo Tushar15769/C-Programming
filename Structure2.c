@@ -17,10 +17,10 @@ for(i=0;i<3;i++){
     scanf("%s",s[i].sname);
 
     printf("Enter 4 subject marks:\n");
-   for(j=0;j<4;j++)
+   for(j=0;j<4;j++){
    scanf("%d",&s[i].smarks[j]);
   }
-
+}
  
 printf("----Students details----\n");
 
