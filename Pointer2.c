@@ -1,7 +1,7 @@
 #include<stdio.h>
 struct Emp{
     int eno;
-    char ename;
+    char ename[20];
     float esal;
 };
 void main()
