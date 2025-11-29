@@ -5,7 +5,7 @@ struct Emp{
   char ename[20];
   float esal;
 };
-int main()
+void main()
 {
 struct Emp* ptr;
 ptr=(struct Emp*)malloc(sizeof(struct Emp));
@@ -22,5 +22,4 @@ else
     printf("%d\t%s\t%f",ptr->eno,ptr->ename,ptr->esal);  
 }
  free(ptr);
- return 0;
 }
