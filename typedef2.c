@@ -9,8 +9,8 @@ int main(void)
     name=read();
     if(name!=NULL)
     {
-    printf("Welcome %s\n",name);
-    free(name);
+      printf("Welcome %s\n",name);
+      free(name);
     }
     return 0;
 }
