@@ -2,7 +2,7 @@
 int main(void)
 {
    FILE*fp;
-   char ch;
+   int ch;
    fp=fopen("D:\\C Programming\\even_odd.txt","r");
    if(fp==NULL)
   {
