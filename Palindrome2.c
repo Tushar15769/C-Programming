@@ -10,7 +10,7 @@ int main()
     strrev(s);
     x = strcmp(s, temp);
 
-    if (x==0)
+    if (x == 0)
     {
         printf("Palindrome");
     }
