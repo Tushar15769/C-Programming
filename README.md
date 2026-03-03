@@ -113,4 +113,6 @@ Contributions are welcome. You may:
 
 ## 📄 License
 
-This project is open-source and available for educational and learning purposes.
+## 📄 License
+
+This repository is licensed under the [MIT](LICENSE).
