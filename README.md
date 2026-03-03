@@ -113,6 +113,4 @@ Contributions are welcome. You may:
 
 ## 📄 License
 
-## 📄 License
-
 This repository is licensed under the [MIT](LICENSE).
