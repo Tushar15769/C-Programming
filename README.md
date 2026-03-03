@@ -66,6 +66,7 @@ cd C-Programming
 
 ```
 <br>
+
 ### 3️⃣ Compile a Program
 
 <br>
@@ -75,6 +76,7 @@ gcc filename.c -o output
 
 ```
 <br>
+
 ### 4️⃣ Run the Program
 
 <br>
@@ -83,6 +85,7 @@ gcc filename.c -o output
 ./output
 ```
 <br>
+
 ## 🎯 Purpose
 
 This repository is ideal for:
