@@ -49,21 +49,29 @@ Command Line / Terminal
 **🚀 How to Use**
 
 **1️⃣ Clone the Repository**
+<br>
 ``
 git clone https://github.com/Tushar15769/C-Programming.git
 ``
+<br>
 2️⃣ Navigate to the Folder
+<br>
 ``
 cd C-Programming
 ``
+<br>
 3️⃣ Compile a Program
+<br>
 ``
 gcc filename.c -o output
 ``
+<br>
 **4️⃣ Run the Program**
+<br>
 ``
 ./output
 ``
+<br>
 **🎯 Purpose**
 
 This repository is ideal for:
