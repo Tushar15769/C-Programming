@@ -51,8 +51,8 @@ Command Line / Terminal
 ### 1️⃣ Clone the Repository
 
 <br>
-```bash
 
+```bash
 git clone https://github.com/Tushar15769/C-Programming.git
 
 ```
@@ -61,8 +61,8 @@ git clone https://github.com/Tushar15769/C-Programming.git
 ### 2️⃣ Navigate to the Folder
 
 <br>
-```bash
 
+```bash
 cd C-Programming
 
 ```
@@ -81,6 +81,7 @@ gcc filename.c -o output
 ### 4️⃣ Run the Program
 
 <br>
+
 ```bash
 ./output
 ```
