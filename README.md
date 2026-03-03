@@ -1,8 +1,8 @@
-#C Programming
+# C Programming
 
 A comprehensive collection of C programs designed to strengthen core programming fundamentals, problem-solving skills, and logical thinking. This repository serves as a structured learning resource for beginners and an essential reference for students and developers revising C concepts.
 
-#📖 About The Repository
+## 📖 About The Repository
 
 This repository contains well-organized C programs covering fundamental to intermediate-level topics. Each program is written with clarity and simplicity to ensure easy understanding and practical implementation.
 
@@ -16,7 +16,7 @@ The goal of this repository is to provide hands-on examples that help in:
 
 • Preparing for academic exams and technical interviews
 
-#🧩 Topics Covered
+## 🧩 Topics Covered
 
 The programs in this repository include, but are not limited to:
 
@@ -40,13 +40,13 @@ The programs in this repository include, but are not limited to:
 
 • Number-based Problems (Prime, Palindrome, Armstrong, etc.)
 
-#🛠 Requirements
+## 🛠 Requirements
 
 GCC Compiler (or any standard C compiler)
 
 Command Line / Terminal
 
-#🚀 How to Use
+## 🚀 How to Use
 
 **1️⃣ Clone the Repository**
 
@@ -80,7 +80,7 @@ gcc filename.c -o output
 ``
 <br>
 
-#🎯 Purpose
+## 🎯 Purpose
 
 This repository is ideal for:
 
@@ -92,7 +92,7 @@ This repository is ideal for:
 
 • Academic lab practice and assignments
 
-#🤝 Contribution
+## 🤝 Contribution
 
 Contributions are welcome. You may:
 
@@ -104,6 +104,6 @@ Contributions are welcome. You may:
 
 • Enhance documentation
 
-#📄 License
+## 📄 License
 
 This project is open-source and available for educational and learning purposes.
