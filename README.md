@@ -51,22 +51,18 @@ Command Line / Terminal
 **1️⃣ Clone the Repository**
 ``
 git clone https://github.com/Tushar15769/C-Programming.git
-
 ``
-**2️⃣ Navigate to the Folder**
+2️⃣ Navigate to the Folder
 ``
 cd C-Programming
-
 ``
-**3️⃣ Compile a Program**
+3️⃣ Compile a Program
 ``
 gcc filename.c -o output
-
 ``
 **4️⃣ Run the Program**
 ``
 ./output
-
 ``
 **🎯 Purpose**
 
