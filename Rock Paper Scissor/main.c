@@ -60,9 +60,9 @@ int main()
 
     srand(time(0));
 
-    printf("\n====================================\n");
+    printf("\n=====================================\n");
     printf("     ROCK PAPER SCISSORS GAME\n");
-    printf("====================================\n");
+    printf("=====================================\n");
 
     printf("\nChoose game mode:\n");
     printf("1. Best of 3\n");
