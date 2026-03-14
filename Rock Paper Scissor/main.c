@@ -147,7 +147,7 @@ int main()
             computerScore++;
         }
 
-        printf("------------------------------------\n");
+        printf("-------------------------------------\n");
 
         printf("\nScoreboard\n");
         printf("Player   : %d\n", playerScore);
